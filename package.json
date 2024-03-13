@@ -1,0 +1,31 @@
+{
+  "name": "react-js-tag-audio",
+  "version": "1.0.0",
+  "description": "react-js-tag-audio",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HoanNguyen135/react-js-tag-audio"
+  },
+  "keywords": [
+    "reactjs-audiotag",
+    "react",
+    "native",
+    "audio",
+    "story"
+  ],
+  "author": "HoanNguyen135",
+  "devDependencies": {
+    "react": "17.0.2",
+    "react-native": "0.68.2",
+    "react-nn-animation" : "*"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoanNguyen135/react-js-tag-audio"
+  },
+  "homepage": "https://github.com/HoanNguyen135/react-js-tag-audio"
+}
